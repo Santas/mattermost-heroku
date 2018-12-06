@@ -1,6 +1,3 @@
-// 20181206233855
-// https://raw.githubusercontent.com/mozilla/mattermost-heroku/v2.2.0/app.json
-
 {
   "name": "Mattermost Heroku",
   "description": "Deploy Mattermost to Heroku",
